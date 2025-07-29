@@ -20,6 +20,22 @@ Visualizations include:
 - Pie charts
 - A map with fraud case locations
 
+> [!NOTE]  
+> The following screenshots were taken after uploading data for a single day. Final visualizations based on the full dataset may show different patterns and results.
+
+
+![The entry of the Streamlit dashboard.](images/dashboard-fraud-analysis.png)
+_Entry point of the Streamlit dashboard._
+
+![Total transaction volume by age group.](images/fraud-by-age-group.png)
+_Total transaction volume by age group._
+
+![Total transaction volume by merchant location (state).](images/fraud-by-merchant-location.png)
+_Total transaction volume by merchant location (state)._
+
+![A map of the United States with fraud cases highlighted.](images/fraud-merchant-location-map.png)
+_A map of the states with fraud cases highlighted._
+
 ## Dashboard structure
 
 The app is organized into multiple pages:
